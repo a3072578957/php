@@ -1,7 +1,4 @@
 
-
-Yuexia is a personal website project built with a self-made traditional PHP framework.
-
 ## Tech Stack
 
 - PHP
